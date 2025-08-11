@@ -2,10 +2,12 @@
     padding: 0;
     margin: 0;
 }
+
 body{
     height: 100vh;
-    width: 100%;   
+    width: 100%;  
 }
+
 .hero-section{
     height: 55vh;
     width: 100vw;
@@ -13,25 +15,27 @@ body{
     position: relative;
     overflow: hidden;
 }
+
 .bg-1{
     position: absolute;
     bottom: 0;
     left: 0;
     background-color: red;
 }
+
 .bg-1{
     height: 300px;
     width: 300px;
     overflow: hidden;
 
 }
+
 .bg-1 img{
     height: 100%;
     width: 100%;
     object-fit: fill;
     transform: translateY(45%);
 }
-
 
 .bg-2{
     height: 100%;
@@ -43,8 +47,8 @@ body{
     background-color: red;
 }
 .bg-2 img{
-    height: 150%;
-    width: 150%;
+    height: 100%;
+    width: 100%;
     object-fit: fill;
     transform: rotate(145deg);
 
