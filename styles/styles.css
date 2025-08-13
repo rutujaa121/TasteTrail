@@ -59,5 +59,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
+}
+.main-search-box-container input{
+    height: 40px;
+    width: 400px;
 }
